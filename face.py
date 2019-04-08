@@ -5,7 +5,8 @@ import cv2
 face_cascade = cv2.CascadeClassifier('C:\\opencv\\build\\etc\\haarcascades\\haarcascade_frontalface_default.xml')
 eye_cascade = cv2.CascadeClassifier('C:\\opencv\\build\\etc\\haarcascades\\haarcascade_eye.xml')
 
-id=raw_input('Enter user id')
+id=raw_input('Enter user id
+             ')
 sampleNum=0;
 cap = cv2.VideoCapture(0)
 

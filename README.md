@@ -1,6 +1,4 @@
-# Python
-
-fun Project and learning
+# Project testing OpenCV
 FaceDetection using opencv and python
 
 
